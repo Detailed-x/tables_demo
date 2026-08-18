@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "username" : "admin",
+  "password" : "admin123",
+  "role" : "ADMIN",
+  "departmentId" : 63783,
+  "createdAt" : "2026-08-18 10:44:18"
+}, {
+  "id" : 63793,
+  "username" : "xuehongye",
+  "password" : "5tgvbhy6",
+  "role" : "USER",
+  "departmentId" : 63783,
+  "createdAt" : "2026-08-18 10:46:44"
+} ]

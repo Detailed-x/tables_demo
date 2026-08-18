@@ -1,0 +1,58 @@
+{
+  "63783" : {
+    "departmentId" : 63783,
+    "columns" : [ {
+      "id" : "col_63784",
+      "name" : "序号",
+      "width" : 150
+    }, {
+      "id" : "col_63785",
+      "name" : "事项",
+      "width" : 150
+    }, {
+      "id" : "col_63786",
+      "name" : "备注",
+      "width" : 150
+    } ],
+    "rows" : [ {
+      "id" : "row_63794",
+      "cells" : {
+        "col_63784" : {
+          "value" : "123",
+          "editor" : "admin",
+          "updatedAt" : "2026-08-18 10:48:58"
+        },
+        "col_63785" : {
+          "value" : "123",
+          "editor" : "xuehongye",
+          "updatedAt" : "2026-08-18 10:48:37"
+        },
+        "col_63786" : {
+          "value" : "123",
+          "editor" : "xuehongye",
+          "updatedAt" : "2026-08-18 10:48:38"
+        }
+      }
+    }, {
+      "id" : "row_63795",
+      "cells" : {
+        "col_63784" : {
+          "value" : "2",
+          "editor" : "admin",
+          "updatedAt" : "2026-08-18 10:48:59"
+        },
+        "col_63785" : {
+          "value" : "",
+          "editor" : "admin",
+          "updatedAt" : "2026-08-18 10:49:00"
+        },
+        "col_63786" : {
+          "value" : "",
+          "editor" : null,
+          "updatedAt" : null
+        }
+      }
+    } ],
+    "updatedAt" : "2026-08-18 10:49:00"
+  }
+}
